@@ -49,21 +49,6 @@ I am interested in DevOps, automation, cloud technologies, and scalable architec
 
 ---
 
-## 📌 Featured Projects
-
-<div>
-  <p>
-    <a href="https://github.com/SebastianJesahel08">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianJesahel08&repo=api-login-dotnet" />
-    </a>
-    <a href="https://github.com/SebastianJesahel08">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianJesahel08&repo=python-api-project" />
-    </a>
-  </p>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
